@@ -1,0 +1,32 @@
+#yellow {
+	background-color: lightyellow;
+}
+
+#light-blue {
+	background-color: lightblue;
+}
+
+#light-blue-div {
+	width: 70%;
+	margin: auto;
+}
+
+.container {
+	width:70%;
+	margin: auto;
+}
+
+.input {
+	margin-left: 650px;
+	margin-bottom: 40px;
+}
+
+img {
+	max-width: 40%;
+	max-height: 40%;
+	object-fit: contain;
+}
+
+.border {
+	border: 1px solid black;
+}
